@@ -1,0 +1,14 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002213</GUID>
+      <Text>玉米饼</Text>
+    </Text>
+    <Text>
+      <GUID>1999002214</GUID>
+      <Text>圆圆的玉米饼人人喜欢。</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

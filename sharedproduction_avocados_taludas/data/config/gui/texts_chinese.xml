@@ -1,0 +1,26 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>牛油果树</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>牛油果种植园</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>庄园牛油果种植园</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>牛油果</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>由于其独特的形状和味道，牛油果在新世界的饮食文化中有着很重要的地位。因为果肉含有大量的脂肪，所以营养价值非常高。种植的最大的题是巨大的用水量。</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

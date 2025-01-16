@@ -1,0 +1,14 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002211</GUID>
+      <Text>草木灰</Text>
+    </Text>
+    <Text>
+      <GUID>1999002212</GUID>
+      <Text>曾经噼啪作响的森林大火留下的粉状碱性残留物。</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

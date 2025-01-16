@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>Boschetto di avocado</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>Piantagione di avocado</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>Piantagione di avocado Hacienda</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>Avocado</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>Con la sua forma e il suo gusto distinti, l'avocado ha una ricca tradizione nella cultura culinaria del Nuovo Mondo. Poiché la polpa contiene un'elevata quantità di grassi, il valore di noci è molto alto. La più grande preoccupazione della coltivazione è l'enorme consumo di acqua per far crescere la pianta.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

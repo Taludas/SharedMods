@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002200</GUID>
+      <Text>鱷梨生育能力</Text>
+    </Text>
+    <Text>
+      <GUID>1999002201</GUID>
+      <Text>鱷梨生育能力</Text>
+    </Text>
+    <Text>
+      <GUID>1999002202</GUID>
+      <Text>鱷梨種子</Text>
+    </Text>
+    <Text>
+      <GUID>1999002203</GUID>
+      <Text>這些種子可以説明您在外來土壤中發芽幾棵鱷梨樹。</Text>
+    </Text>
+    <Text>
+      <GUID>1999002204</GUID>
+      <Text>優質鱷梨種子</Text>
+    </Text>
+    <Text>
+      <GUID>1999002205</GUID>
+      <Text>這些種子可以説明您在外來土壤中種植大量的鱷梨樹。</Text>
+    </Text>
+    <Text>
+      <GUID>1999002206</GUID>
+      <Text>雜交鱷梨種子</Text>
+    </Text>
+    <Text>
+      <GUID>1999002207</GUID>
+      <Text>這些種子已經適應了在各種土壤中生長，並提高了鱷梨的產量！</Text>
+    </Text>
+    <Text>
+      <GUID>1999002209</GUID>
+      <Text>鱷梨</Text>
+    </Text>
+    <Text>
+      <GUID>1999002210</GUID>
+      <Text>形狀獨特的水果，味道濃郁，含有許多健康的脂肪酸和長滿的大種子。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

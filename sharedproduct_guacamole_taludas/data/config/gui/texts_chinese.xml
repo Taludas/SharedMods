@@ -1,0 +1,14 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002215</GUID>
+      <Text>牛油果酱</Text>
+    </Text>
+    <Text>
+      <GUID>1999002216</GUID>
+      <Text>天鹅绒般的绿色奶油，辛辣的牛油果酱。</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002213</GUID>
+      <Text>トルティーヤ</Text>
+    </Text>
+    <Text>
+      <GUID>1999002214</GUID>
+      <Text>用途の広い丸いコーントルティーヤ。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

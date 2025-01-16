@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>Plantación de aguacates</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>Plantación de aguacate</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>Hacienda Avocado Plantation</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>Aguacates</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>Con su forma y sabor distintivos, el aguacate tiene una rica tradición en la cultura culinaria del Nuevo Mundo. Debido a que la pulpa contiene una gran cantidad de grasa, el valor de nuez es muy alto. La mayor preocupación del cultivo es el enorme consumo de agua para cultivar la planta.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

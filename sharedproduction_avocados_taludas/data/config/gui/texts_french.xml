@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>Avocatraie</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>Plantation d’avocats</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>Hacienda Plantation d’avocats</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>Avocats</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>Avec sa forme et son goût distincts, l’avocat a une riche tradition dans la culture culinaire du Nouveau Monde. Parce que la pulpe contient une grande quantité de graisse, la valeur nominale est très élevée. La plus grande préoccupation de la culture est l’énorme consommation d’eau pour faire pousser la plante.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

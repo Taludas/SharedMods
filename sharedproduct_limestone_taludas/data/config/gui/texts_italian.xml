@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1010309</GUID>
+      <Text>Cava di calcare</Text>
+    </Text>
+    <Text>
+      <GUID>1010505</GUID>
+      <Text>Deposito di calcare</Text>
+    </Text>
+    <Text>
+      <GUID>1010231</GUID>
+      <Text>Calcare</Text>
+    </Text>
+  </ModOp>
+</ModOps>

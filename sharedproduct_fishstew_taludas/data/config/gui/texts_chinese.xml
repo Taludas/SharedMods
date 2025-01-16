@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>炖鱼</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>花哨到给人留下深刻印象。但让人怀疑是不是有人把整个水族箱都倒进来了。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>老饕会称之为马赛鱼汤。但它肯定与罐头不同。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

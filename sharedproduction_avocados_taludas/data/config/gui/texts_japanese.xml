@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>アボカドグローブ</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>アボカド農園</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>ハシエンダ アボカド プランテーション</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>アボカド</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>その独特の形と味で、アボカドは新世界の料理文化に豊かな伝統を持っています。果肉には脂肪分が多く含まれているため、栄養価が非常に高いです。栽培の最大の関心事は、植物を育てるための膨大な水の消費量です。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

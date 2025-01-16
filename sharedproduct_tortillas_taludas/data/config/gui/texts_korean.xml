@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002213</GUID>
+      <Text>토르티야</Text>
+    </Text>
+    <Text>
+      <GUID>1999002214</GUID>
+      <Text>다재다능한 둥근 옥수수 토르티야.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002215</GUID>
+      <Text>ワカモレ</Text>
+    </Text>
+    <Text>
+      <GUID>1999002216</GUID>
+      <Text>ベルベットグリーンのクリーミーでスパイシーなアボカドペースト。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

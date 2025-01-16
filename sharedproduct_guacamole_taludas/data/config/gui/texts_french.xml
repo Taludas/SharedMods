@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002215</GUID>
+      <Text>Guacamole</Text>
+    </Text>
+    <Text>
+      <GUID>1999002216</GUID>
+      <Text>Velouté, vert crème, pâte d’avocat épicée.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

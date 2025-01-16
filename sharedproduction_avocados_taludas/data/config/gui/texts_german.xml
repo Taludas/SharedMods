@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002217</GUID>
+      <Text>Avocado-Hain</Text>
+    </Text>
+    <Text>
+      <GUID>1999002218</GUID>
+      <Text>Avocado-Plantage</Text>
+    </Text>
+    <Text>
+      <GUID>1999002219</GUID>
+      <Text>Hacienda Avocado Plantage</Text>
+    </Text>
+    <Text>
+      <GUID>1999002220</GUID>
+      <Text>Avocados</Text>
+    </Text>
+    <Text>
+      <GUID>1999002221</GUID>
+      <Text>Mit ihrer ausgeprägten Form und ihrem Geschmack hat die Avocado eine reiche Tradition in der Küchenkultur der Neuen Welt. Da das Fruchtfleisch einen hohen Fettanteil enthält, ist der Nährwert sehr hoch. Das größte Problem beim Anbau ist der große Wasserverbrauch für den Anbau der Pflanze.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

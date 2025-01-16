@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005087</GUID>
+      <Text>Бриллианты</Text>
+    </Text>
+    <Text>
+      <GUID>1999005088</GUID>
+      <Text>Сияй ярко, как бриллиант!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005089</GUID>
+      <Text>Безусловно, лучшие друзья девушек</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,4 +1,4 @@
-# Shared Mods For Anno 1800 by Taludas
+# Shared Mods For Anno 3200 by Taludas
 In this repo you can find all of my Shared Mods
 
 ## Products and Productions
@@ -9,31 +9,33 @@ Production mods contain production buildings in one region and sometimes a chain
 
 | | Name | GUID | Product | Production |
 ---|---|---|---|---|
-<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;18px" width="18" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` |
-<img src="./sharedproduct_applecider_taludas/data/modgraphics/ui/icon_apple_cider.png" style="vertical-align: text-bottom;18px" width="18" /> | Apple Cider | 1999005051 | `sharedproduct_applecider_taludas` |  |
-<img src="./sharedproduct_avocados_taludas/data/modgraphics/ui/icon_avocado.png" style="vertical-align: text-bottom;18px" width="18" /> | Avocados | 1999002209 | `sharedproduct_avocados_taludas` | `sharedproduction_avocados_taludas`
-<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;18px" width="18" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas`
-<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;18px" width="18" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas`
-<img src="./doc/icons/icon_fish_stew.png" style="vertical-align: text-bottom;18px" width="18" /> | Fish Stew | 1999005054 | `sharedproduct_fishstew_taludas` |  |
-<img src="./sharedproduct_guacamole_taludas/data/modgraphics/ui/icon_guacamole.png" style="vertical-align: text-bottom;18px" width="18" /> | Guacamole | 1999002215 | `sharedproduct_guacamole_taludas` | `sharedproduction_guacamole_taludas`
-<img src="./sharedproduct_honey_taludas/data/modgraphics/ui/icon_honey.png" style="vertical-align: text-bottom;18px" width="18" /> | Honey | 1440218 | `sharedproduct_honey_taludas` | (`New Horizons`, Asia)
-<img src="./sharedproduct_lacquerware_taludas/data/modgraphics/ui/icon_lacquerware.png" style="vertical-align: text-bottom;18px" width="18" /> | Lacquerware | 1999005078 | `sharedproduct_lacquerware_taludas` |
-<img src="./sharedproduct_limestone_taludas/data/modgraphics/ui/icon_limestone.png" style="vertical-align: text-bottom;18px" width="18" /> | Limestone (renamed cement) | 1010231 | `sharedproduct_limestone_taludas` | vanilla
-<img src="./sharedproduct_lobsterdinner_taludas/data/modgraphics/ui/icon_lobster_dinner.png" style="vertical-align: text-bottom;18px" width="18" /> | Lobster Dinner | 1999005075 | sharedproduct_lobsterdinner_taludas |
-<img src="./sharedproduct_luxuryfurniture_taludas/data/modgraphics/ui/icon_luxury_furniture.png" style="vertical-align: text-bottom;18px" width="18" /> | Luxury Furniture | 1999005072 | `sharedproduct_luxuryfurniture_taludas` |
-<img src="./sharedproduct_marzipan_taludas/data/modgraphics/ui/icon_marzipan.png" style="vertical-align: text-bottom;18px" width="18" /> | Marzipan | 1999005057 | `sharedproduct_marzipan_taludas` |
-<img src="./sharedproduct_paintings_taludas/data/modgraphics/ui/icon_paintings.png" style="vertical-align: text-bottom;18px" width="18" /> | Paintings | 1999005069 | `sharedproduct_paintings_taludas` |
-<img src="./sharedproduct_potash_taludas/data/modgraphics/ui/icon_potash.png" style="vertical-align: text-bottom;18px" width="18" /> | Potash | 1999002211 | `sharedproduct_potash_taludas` | `sharedproduction_potash_taludas`
-<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;18px" width="18" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas`
-<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;18px" width="18" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia)
-<img src="./sharedproduct_soda_taludas/data/modgraphics/ui/icon_soda_2.png" style="vertical-align: text-bottom;18px" width="18" />| Soda | 1999002300 | `sharedproduct_soda_taludas` | (`lion053_Enbesa_Spectacles_Production`, Enbesa)<br/>(`shared_soda_factory_kurila`, Old World)
-<img src="./sharedproduct_sweets_taludas/data/modgraphics/ui/icon_sweets.png" style="vertical-align: text-bottom;18px" width="18" />| Sweets | 1999005060 | `sharedproduct_sweets_taludas` |
-<img src="./sharedproduct_tortillas_taludas/data/modgraphics/ui/icon_tortillas.png" style="vertical-align: text-bottom;18px" width="18" /> | Tortillas | 1999002213 | `sharedproduct_tortillas_taludas` | `sharedproduction_tortillas_taludas`
-<img src="./sharedproduct_wine_taludas/data/modgraphics/ui/icon_wine.png" style="vertical-align: text-bottom;18px" width="18" />| Wine (renamed Champagne) | 120016 | `sharedproduct_wine_taludas` | vanilla
+<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="32" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` |
+<img src="./sharedproduct_applecider_taludas/data/modgraphics/ui/icon_apple_cider.png" style="vertical-align: text-bottom;32px" width="32" /> | Apple Cider | 1999005051 | `sharedproduct_applecider_taludas` |  |
+<img src="./sharedproduct_avocados_taludas/data/modgraphics/ui/icon_avocado.png" style="vertical-align: text-bottom;32px" width="32" /> | Avocados | 1999002209 | `sharedproduct_avocados_taludas` | `sharedproduction_avocados_taludas`
+<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="32" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas`
+<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="32" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas`
+<img src="./doc/icons/icon_fish_stew.png" style="vertical-align: text-bottom;32px" width="32" /> | Fish Stew | 1999005054 | `sharedproduct_fishstew_taludas` |  |
+<img src="./sharedproduct_guacamole_taludas/data/modgraphics/ui/icon_guacamole.png" style="vertical-align: text-bottom;32px" width="32" /> | Guacamole | 1999002215 | `sharedproduct_guacamole_taludas` | `sharedproduction_guacamole_taludas`
+<img src="./sharedproduct_honey_taludas/data/modgraphics/ui/icon_honey.png" style="vertical-align: text-bottom;32px" width="32" /> | Honey | 1440232 | `sharedproduct_honey_taludas` | (`New Horizons`, Asia)
+<img src="./sharedproduct_lacquerware_taludas/data/modgraphics/ui/icon_lacquerware.png" style="vertical-align: text-bottom;32px" width="32" /> | Lacquerware | 1999005078 | `sharedproduct_lacquerware_taludas` |
+<img src="./sharedproduct_limestone_taludas/data/modgraphics/ui/icon_limestone.png" style="vertical-align: text-bottom;32px" width="32" /> | Limestone (renamed cement) | 1010231 | `sharedproduct_limestone_taludas` | vanilla
+<img src="./sharedproduct_lobsterdinner_taludas/data/modgraphics/ui/icon_lobster_dinner.png" style="vertical-align: text-bottom;32px" width="32" /> | Lobster Dinner | 1999005075 | `sharedproduct_lobsterdinner_taludas` |
+<img src="./sharedproduct_luxuryfurniture_taludas/data/modgraphics/ui/icon_luxury_furniture.png" style="vertical-align: text-bottom;32px" width="32" /> | Luxury Furniture | 1999005072 | `sharedproduct_luxuryfurniture_taludas` |
+<img src="./sharedproduct_marzipan_taludas/data/modgraphics/ui/icon_marzipan.png" style="vertical-align: text-bottom;32px" width="32" /> | Marzipan | 1999005057 | `sharedproduct_marzipan_taludas` |
+<img src="./sharedproduct_paintings_taludas/data/modgraphics/ui/icon_paintings.png" style="vertical-align: text-bottom;32px" width="32" /> | Paintings | 1999005069 | `sharedproduct_paintings_taludas` |
+<img src="./sharedproduct_potash_taludas/data/modgraphics/ui/icon_potash.png" style="vertical-align: text-bottom;32px" width="32" /> | Potash | 1999002211 | `sharedproduct_potash_taludas` | `sharedproduction_potash_taludas`
+<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="32" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas`
+<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="32" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia)
+<img src="./sharedproduct_soda_taludas/data/modgraphics/ui/icon_soda_2.png" style="vertical-align: text-bottom;32px" width="32" />| Soda | 1999002300 | `sharedproduct_soda_taludas` | (`lion053_Enbesa_Spectacles_Production`, Enbesa)<br/>(`shared_soda_factory_kurila`, Old World)
+<img src="./sharedproduct_sweets_taludas/data/modgraphics/ui/icon_sweets.png" style="vertical-align: text-bottom;32px" width="32" />| Sweets | 1999005060 | `sharedproduct_sweets_taludas` |
+<img src="./sharedproduct_tortillas_taludas/data/modgraphics/ui/icon_tortillas.png" style="vertical-align: text-bottom;32px" width="32" /> | Tortillas | 1999002213 | `sharedproduct_tortillas_taludas` | `sharedproduction_tortillas_taludas`
+<img src="./sharedproduct_wine_taludas/data/modgraphics/ui/icon_wine.png" style="vertical-align: text-bottom;32px" width="32" />| Wine (renamed Champagne) | 120016 | `sharedproduct_wine_taludas` | vanilla
 
 ## Foreign Trading Company
 
 In close cooperation, Drakkam, Taubenangriff and me created the **Foreign Trading Company** as an Import/Export facility with extra steps. This feature will be shared by the mods "Noblesse Oblige" (Taludas), "Merchants" (Drakkam) and "New Horizons" (Taubenangriff) and be open to others as well.
+
+<img src="./doc/import_docks.jpg" />
 
 ### *How does it work?*
 New products must be imported through coastal **import docks**, where they can be bought for **trade licenses**. This is completely independent of any 3rd party or the Docklands system, the results will hopefully be a nice contrast to the vanilla Docklands, because the extra steps we took allow for complex interaction with the game world.
@@ -48,7 +50,7 @@ Trade Licences can now be used to purchase foreign and exotic products from diff
 While the Landowners of "Noblesse Oblige" consume Silk f.e., they don't offer the production itself, only importing it. That void is deliberate. And as soon as you enter Asia in "New Horizons, it is filled by the local Silk production chain. When playing with both mods, you get the choice of either Import or Production, with production being the preferred and more effective method. The neat part: You ain't forced into installing anything! it is your choice which mods to play with, but as you install multiple mods, they can interconnect their products without the need for every single mod to offer standalone production, profiting of each other without forced dependency.
 
 ### *How do I use the shared mod for my own mod?*
-1. Download the main shared mod `shared_tradingcompany_taludas` and integrate it in your mod. Also add it to the "ModDependencies" and "LoadAfterIds" in your modinfo.json file.
+1. Download the main shared mod `shared_tradingcompany_taludas` and integrate it in your mod. Also add it to the `ModDependencies` and `LoadAfterIds` in your modinfo.json file.
 2. Do you want to use the build-in Export Docks to get you started on Trade License generation? Then include the Docks you want to use in the module sub menu of the Main Building:
 
 ```xml
@@ -58,6 +60,16 @@ While the Landowners of "Noblesse Oblige" consume Silk f.e., they don't offer th
     </Item>
 </ModOp>
 ```
+Available Export Docks in the main mod:
+
+| | Name | GUID | Product | Production
+---|---|---|---|---|---|
+<img src="./doc/icons/icon_steel.png" style="vertical-align: text-bottom;32px" width="32" /> | Steel | 1010219 | vanilla | vanilla
+<img src="./doc/icons/icon_cannon_2.png" style="vertical-align: text-bottom;32px" width="32" />| Cannons | 1010221 | vanilla | vanilla
+<img src="./doc/icons/icon_sewing_machine.png" style="vertical-align: text-bottom;32px" width="32" /> | Sewing Machines | 1010206 |vanilla | vanilla
+<img src="./doc/icons/icon_dynamite.png" style="vertical-align: text-bottom;32px" width="32" />| Dynamite | 1010222 | vanilla | vanilla
+<img src="./doc/icons/icon_steam_machine.png" style="vertical-align: text-bottom;32px" width="32" />| Steam Engines | 1010224 | vanilla | vanilla
+<img src="./doc/icons/icon_typewriter.png" style="vertical-align: text-bottom;32px" width="32" />| Typewriters | 135230 | vanilla (DLC 09) | vanilla (DLC 09)
 
 You will also need to put custom triggers for Unhide/Unlock and a custom build menu entry for the main building as well as the Export Docks into your mod.
 
@@ -65,13 +77,13 @@ You will also need to put custom triggers for Unhide/Unlock and a custom build m
 
 | | Name | GUID | Product | Production | Import Storage List
 ---|---|---|---|---|---|
-<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;18px" width="18" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` | | `import_storagelist_almonds_taludas`
-<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;18px" width="18" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas` | `import_storagelist_diamonds_taludas`
-<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;18px" width="18" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas` | `import_storagelist_ebony_taludas`
-<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;18px" width="18" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas` | `import_storagelist_saffron_taludas`
-<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;18px" width="18" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia) | `import_storagelist_silk_taludas`
----|---|---|---|---|---|
-<img src="./shared_tradingcompany_packaging_taludas/data/ui/icon_import_dock_packaging.png" style="vertical-align: text-bottom;18px" width="18" />|  |  | requires `ropes-jakob`,`ow-ropes-jakob`,`barrels_kurila`,`shared_cooperages_kurila` | `shared_tradingcompany_packaging_taludas` |
+<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="32" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` | | `import_storagelist_almonds_taludas`
+<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="32" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas` | `import_storagelist_diamonds_taludas`
+<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="32" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas` | `import_storagelist_ebony_taludas`
+<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="32" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas` | `import_storagelist_saffron_taludas`
+<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="32" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia) | `import_storagelist_silk_taludas`
+||||||
+<img src="./shared_tradingcompany_packaging_taludas/data/ui/icon_import_dock_packaging.png" style="vertical-align: text-bottom;32px" width="32" />|  |  | requires `ropes-jakob`,`ow-ropes-jakob`,`barrels_kurila`,`shared_cooperages_kurila` | `shared_tradingcompany_packaging_taludas` |
 
 You will also need to put custom triggers for Unhide/Unlock for the Import Docks into your mod.
 

@@ -1,4 +1,4 @@
-# Shared Mods For Anno 3200 by Taludas
+# Shared Mods For Anno 1800 by Taludas
 In this repo you can find all of my Shared Mods
 
 ## Products and Productions

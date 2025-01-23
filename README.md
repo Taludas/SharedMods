@@ -9,11 +9,11 @@ Production mods contain production buildings in one region and sometimes a chain
 
 | | Name | GUID | Product | Production |
 ---|---|---|---|---|
-<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="64" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` |
+<img src="./Taludas_sharedproduct_almonds/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="64" /> | Almonds | 1999005084 | `Taludas_sharedproduct_almonds`| `Taludas_shared_importdock_almonds` |
 <img src="./sharedproduct_applecider_taludas/data/modgraphics/ui/icon_apple_cider.png" style="vertical-align: text-bottom;32px" width="64" /> | Apple Cider | 1999005051 | `sharedproduct_applecider_taludas` |  |
 <img src="./sharedproduct_avocados_taludas/data/modgraphics/ui/icon_avocado.png" style="vertical-align: text-bottom;32px" width="64" /> | Avocados | 1999002209 | `sharedproduct_avocados_taludas` | `sharedproduction_avocados_taludas`
-<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="64" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas`
-<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas`
+<img src="./Taludas_sharedproduct_diamonds/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="64" />| Diamonds | 1999005087 | `Taludas_sharedproduct_diamonds` | `Taludas_shared_importdock_diamonds`
+<img src="./Taludas_sharedproduct_ebony/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `Taludas_sharedproduct_ebony` | `Taludas_shared_importdock_ebony`
 <img src="./doc/icons/icon_fish_stew.png" style="vertical-align: text-bottom;32px" width="32" /> | Fish Stew | 1999005054 | `sharedproduct_fishstew_taludas` |  |
 <img src="./sharedproduct_guacamole_taludas/data/modgraphics/ui/icon_guacamole.png" style="vertical-align: text-bottom;32px" width="64" /> | Guacamole | 1999002215 | `sharedproduct_guacamole_taludas` | `sharedproduction_guacamole_taludas`
 <img src="./sharedproduct_honey_taludas/data/modgraphics/ui/icon_honey.png" style="vertical-align: text-bottom;32px" width="64" /> | Honey | 1440232 | `sharedproduct_honey_taludas` | (`New Horizons`, Asia)
@@ -24,8 +24,8 @@ Production mods contain production buildings in one region and sometimes a chain
 <img src="./sharedproduct_marzipan_taludas/data/modgraphics/ui/icon_marzipan.png" style="vertical-align: text-bottom;32px" width="64" /> | Marzipan | 1999005057 | `sharedproduct_marzipan_taludas` |
 <img src="./sharedproduct_paintings_taludas/data/modgraphics/ui/icon_paintings.png" style="vertical-align: text-bottom;32px" width="64" /> | Paintings | 1999005069 | `sharedproduct_paintings_taludas` |
 <img src="./sharedproduct_potash_taludas/data/modgraphics/ui/icon_potash.png" style="vertical-align: text-bottom;32px" width="64" /> | Potash | 1999002211 | `sharedproduct_potash_taludas` | `sharedproduction_potash_taludas`
-<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas`
-<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia)
+<img src="./Taludas_sharedproduct_saffron/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `Taludas_sharedproduct_saffron` | `Taludas_shared_importdock_saffron`
+<img src="./Taludas_sharedproduct_silkfabric/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `Taludas_sharedproduct_silkfabric` | `Taludas_shared_importdock_silk`<br/>(`New Horizons`, Asia)
 <img src="./sharedproduct_soda_taludas/data/modgraphics/ui/icon_soda_2.png" style="vertical-align: text-bottom;32px" width="64" />| Soda | 1999002300 | `sharedproduct_soda_taludas` | (`lion053_Enbesa_Spectacles_Production`, Enbesa)<br/>(`shared_soda_factory_kurila`, Old World)
 <img src="./sharedproduct_sweets_taludas/data/modgraphics/ui/icon_sweets.png" style="vertical-align: text-bottom;32px" width="64" />| Sweets | 1999005060 | `sharedproduct_sweets_taludas` |
 <img src="./sharedproduct_tortillas_taludas/data/modgraphics/ui/icon_tortillas.png" style="vertical-align: text-bottom;32px" width="64" /> | Tortillas | 1999002213 | `sharedproduct_tortillas_taludas` | `sharedproduction_tortillas_taludas`
@@ -50,7 +50,7 @@ Trade Licences can now be used to purchase foreign and exotic products from diff
 While the Landowners of "Noblesse Oblige" consume Silk f.e., they don't offer the production itself, only importing it. That void is deliberate. And as soon as you enter Asia in "New Horizons, it is filled by the local Silk production chain. When playing with both mods, you get the choice of either Import or Production, with production being the preferred and more effective method. The neat part: You ain't forced into installing anything! it is your choice which mods to play with, but as you install multiple mods, they can interconnect their products without the need for every single mod to offer standalone production, profiting of each other without forced dependency.
 
 ### *How do I use the shared mod for my own mod?*
-1. Download the main shared mod `shared_tradingcompany_taludas` and integrate it in your mod. Also add it to the `ModDependencies` and `LoadAfterIds` in your modinfo.json file.
+1. Download the main shared mod `Taludas_shared_tradingcompany` as well as `Taludas_neutral_airport` and integrate it in your mod. Also add it to the `ModDependencies` and `LoadAfterIds` in your modinfo.json file.
 2. Do you want to use the build-in Export Docks to get you started on Trade License generation? Then include the Docks you want to use in the module sub menu of the Main Building:
 
 ```xml
@@ -73,17 +73,18 @@ Available Export Docks in the main mod:
 
 You will also need to put custom triggers for Unhide/Unlock and a custom build menu entry for the main building as well as the Export Docks into your mod.
 
-1. You want to use one of the shared Import Docks or one of the shared support modules? Just include the specific submods (product, import dock and import storage list submods are needed!) into your mod and add it to the `ModDependencies` and `LoadAfterIds` in your modinfo.json file. Note, that after the main mod `shared_tradingcompany_taludas` you should first load any support modules and then Import Docks should be loaded after both of them in their own modinfo.json (therfore the sorting of modules will be "Warehouse", "Support Modules", "Export Docks", "Import Docks"). Have a look inside the available modinfo.json files to copy the behaviour to your mod and check in game if the order is correct. Import Docks in general are loaded and sorted alphabetically. Available submods in this repo:
+3. You want to use one of the shared Import Docks or one of the shared support modules? Just include the specific submods (product, import dock and import storage list submods are needed!) into your mod and add it to the `ModDependencies` and `LoadAfterIds` in your modinfo.json file. Note, that after the main mod `Taludas_shared_tradingcompany` you should first load any support modules and then Import Docks should be loaded after both of them in their own modinfo.json (therfore the sorting of modules will be "Warehouse", "Support Modules", "Export Docks", "Import Docks"). Have a look inside the available modinfo.json files to copy the behaviour to your mod and check in game if the order is correct. Import Docks in general are loaded and sorted alphabetically. Available submods in this repo:
 
 | | Name | GUID | Product | Production | Import Storage List
 ---|---|---|---|---|---|
-<img src="./sharedproduct_almonds_taludas/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="64" /> | Almonds | 1999005084 | `sharedproduct_almonds_taludas`| `shared_importdock_almonds_taludas` | `import_storagelist_almonds_taludas`
-<img src="./sharedproduct_diamonds_taludas/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="64" />| Diamonds | 1999005087 | `sharedproduct_diamonds_taludas` | `shared_importdock_diamonds_taludas` | `import_storagelist_diamonds_taludas`
-<img src="./sharedproduct_ebony_taludas/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `sharedproduct_ebony_taludas` | `shared_importdock_ebony_taludas` | `import_storagelist_ebony_taludas`
-<img src="./sharedproduct_saffron_taludas/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `sharedproduct_saffron_taludas` | `shared_importdock_saffron_taludas` | `import_storagelist_saffron_taludas`
-<img src="./sharedproduct_silkfabric_taludas/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `sharedproduct_silkfabric_taludas` | `shared_importdock_silk_taludas`<br/>(`New Horizons`, Asia) | `import_storagelist_silk_taludas`
+<img src="./Taludas_sharedproduct_almonds/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="64" /> | Almonds | 1999005084 | `Taludas_sharedproduct_almonds`| `Taludas_shared_importdock_almonds` | `import_storagelist_almonds_taludas`
+<img src="./Taludas_sharedproduct_diamonds/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="64" />| Diamonds | 1999005087 | `Taludas_sharedproduct_diamonds` | `Taludas_shared_importdock_diamonds` | `import_storagelist_diamonds_taludas`
+<img src="./Taludas_sharedproduct_ebony/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `Taludas_sharedproduct_ebony` | `Taludas_shared_importdock_ebony` | `import_storagelist_ebony_taludas`
+<img src="./Taludas_sharedproduct_saffron/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `Taludas_sharedproduct_saffron` | `Taludas_shared_importdock_saffron` | `import_storagelist_saffron_taludas`
+<img src="./Taludas_sharedproduct_silkfabric/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `Taludas_sharedproduct_silkfabric` | `Taludas_shared_importdock_silk`<br/>(`New Horizons`, Asia) | `import_storagelist_silk_taludas`
+<img src="./Taludas_sharedproduct_tea/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Tea | 1500010847 | `tea-jakob` | `Taludas_shared_importdock_tea`<br/>(`ow-tea-jakob`) | `import_storagelist_silk_taludas`
 |||||||
-<img src="./shared_tradingcompany_packaging_taludas/data/ui/icon_import_dock_packaging.png" style="vertical-align: text-bottom;32px" width="32" /> | Handling Pier | 1999005388 | requires `ropes-jakob`,`ow-ropes-jakob`,`barrels_kurila`,`shared_cooperages_kurila` | `shared_tradingcompany_packaging_taludas` |
+<img src="./Taludas_shared_tradingcompany_packaging/data/ui/icon_import_dock_packaging.png" style="vertical-align: text-bottom;32px" width="32" /> | Handling Pier | 1999005388 | requires `ropes-jakob`,`ow-ropes-jakob`,`barrels_kurila`,`shared_cooperages_kurila` | `Taludas_shared_tradingcompany_packaging` |
 
 You will also need to put custom triggers for Unhide/Unlock for the Import Docks into your mod.
 

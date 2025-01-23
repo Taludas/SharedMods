@@ -1,5 +1,5 @@
 <ModOps>
-    <ModOp Type="addNextSibling" Path="//Template[Name = 'FactoryBuilding7']">
+    <ModOp Type="addNextSibling" Path="//Template[Name = 'FactoryBuilding7']" Condition="!//Template[Name = 'TradeCompany_Module']">
         <Template>
             <Name>Hacienda_TradeCompany</Name>
             <Properties>

@@ -10,26 +10,26 @@ Production mods contain production buildings in one region and sometimes a chain
 | | Name | GUID | Product | Production |
 ---|---|---|---|---|
 <img src="./Taludas_sharedproduct_almonds/data/modgraphics/ui/icon_almonds.png" style="vertical-align: text-bottom;32px" width="64" /> | Almonds | 1999005084 | `Taludas_sharedproduct_almonds`| `Taludas_shared_importdock_almonds` |
-<img src="./sharedproduct_applecider_taludas/data/modgraphics/ui/icon_apple_cider.png" style="vertical-align: text-bottom;32px" width="64" /> | Apple Cider | 1999005051 | `sharedproduct_applecider_taludas` |  |
-<img src="./sharedproduct_avocados_taludas/data/modgraphics/ui/icon_avocado.png" style="vertical-align: text-bottom;32px" width="64" /> | Avocados | 1999002209 | `sharedproduct_avocados_taludas` | `sharedproduction_avocados_taludas`
+<img src="./Taludas_sharedproduct_applecider/data/modgraphics/ui/icon_apple_cider.png" style="vertical-align: text-bottom;32px" width="64" /> | Apple Cider | 1999005051 | `sharedproduct_applecider_taludas` |  |
+<img src="./Taludas_sharedproduct_avocados/data/modgraphics/ui/icon_avocado.png" style="vertical-align: text-bottom;32px" width="64" /> | Avocados | 1999002209 | `sharedproduct_avocados_taludas` | `sharedproduction_avocados_taludas`
 <img src="./Taludas_sharedproduct_diamonds/data/modgraphics/ui/icon_diamonds.png" style="vertical-align: text-bottom;32px" width="64" />| Diamonds | 1999005087 | `Taludas_sharedproduct_diamonds` | `Taludas_shared_importdock_diamonds`
 <img src="./Taludas_sharedproduct_ebony/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `Taludas_sharedproduct_ebony` | `Taludas_shared_importdock_ebony`
 <img src="./doc/icons/icon_fish_stew.png" style="vertical-align: text-bottom;32px" width="32" /> | Fish Stew | 1999005054 | `sharedproduct_fishstew_taludas` |  |
-<img src="./sharedproduct_guacamole_taludas/data/modgraphics/ui/icon_guacamole.png" style="vertical-align: text-bottom;32px" width="64" /> | Guacamole | 1999002215 | `sharedproduct_guacamole_taludas` | `sharedproduction_guacamole_taludas`
-<img src="./sharedproduct_honey_taludas/data/modgraphics/ui/icon_honey.png" style="vertical-align: text-bottom;32px" width="64" /> | Honey | 1440232 | `sharedproduct_honey_taludas` | (`New Horizons`, Asia)
-<img src="./sharedproduct_lacquerware_taludas/data/modgraphics/ui/icon_lacquerware.png" style="vertical-align: text-bottom;32px" width="64" /> | Lacquerware | 1999005078 | `sharedproduct_lacquerware_taludas` |
-<img src="./sharedproduct_limestone_taludas/data/modgraphics/ui/icon_limestone.png" style="vertical-align: text-bottom;32px" width="64" /> | Limestone (renamed cement) | 1010231 | `sharedproduct_limestone_taludas` | vanilla
-<img src="./sharedproduct_lobsterdinner_taludas/data/modgraphics/ui/icon_lobster_dinner.png" style="vertical-align: text-bottom;32px" width="64" /> | Lobster Dinner | 1999005075 | `sharedproduct_lobsterdinner_taludas` |
-<img src="./sharedproduct_luxuryfurniture_taludas/data/modgraphics/ui/icon_luxury_furniture.png" style="vertical-align: text-bottom;32px" width="64" /> | Luxury Furniture | 1999005072 | `sharedproduct_luxuryfurniture_taludas` |
-<img src="./sharedproduct_marzipan_taludas/data/modgraphics/ui/icon_marzipan.png" style="vertical-align: text-bottom;32px" width="64" /> | Marzipan | 1999005057 | `sharedproduct_marzipan_taludas` |
-<img src="./sharedproduct_paintings_taludas/data/modgraphics/ui/icon_paintings.png" style="vertical-align: text-bottom;32px" width="64" /> | Paintings | 1999005069 | `sharedproduct_paintings_taludas` |
-<img src="./sharedproduct_potash_taludas/data/modgraphics/ui/icon_potash.png" style="vertical-align: text-bottom;32px" width="64" /> | Potash | 1999002211 | `sharedproduct_potash_taludas` | `sharedproduction_potash_taludas`
+<img src="./Taludas_sharedproduct_guacamole/data/modgraphics/ui/icon_guacamole.png" style="vertical-align: text-bottom;32px" width="64" /> | Guacamole | 1999002215 | `sharedproduct_guacamole_taludas` | `sharedproduction_guacamole_taludas`
+<img src="./Taludas_sharedproduct_honey/data/modgraphics/ui/icon_honey.png" style="vertical-align: text-bottom;32px" width="64" /> | Honey | 1440232 | `sharedproduct_honey_taludas` | (`New Horizons`, Asia)
+<img src="./Taludas_sharedproduct_lacquerware/data/modgraphics/ui/icon_lacquerware.png" style="vertical-align: text-bottom;32px" width="64" /> | Lacquerware | 1999005078 | `sharedproduct_lacquerware_taludas` |
+<img src="./Taludas_sharedproduct_limestone/data/modgraphics/ui/icon_limestone.png" style="vertical-align: text-bottom;32px" width="64" /> | Limestone (renamed cement) | 1010231 | `sharedproduct_limestone_taludas` | vanilla
+<img src="./Taludas_sharedproduct_lobsterdinner/data/modgraphics/ui/icon_lobster_dinner.png" style="vertical-align: text-bottom;32px" width="64" /> | Lobster Dinner | 1999005075 | `sharedproduct_lobsterdinner_taludas` |
+<img src="./Taludas_sharedproduct_luxuryfurniture/data/modgraphics/ui/icon_luxury_furniture.png" style="vertical-align: text-bottom;32px" width="64" /> | Luxury Furniture | 1999005072 | `sharedproduct_luxuryfurniture_taludas` |
+<img src="./Taludas_sharedproduct_marzipan/data/modgraphics/ui/icon_marzipan.png" style="vertical-align: text-bottom;32px" width="64" /> | Marzipan | 1999005057 | `sharedproduct_marzipan_taludas` |
+<img src="./Taludas_sharedproduct_paintings/data/modgraphics/ui/icon_paintings.png" style="vertical-align: text-bottom;32px" width="64" /> | Paintings | 1999005069 | `sharedproduct_paintings_taludas` |
+<img src="./Taludas_sharedproduct_potash/data/modgraphics/ui/icon_potash.png" style="vertical-align: text-bottom;32px" width="64" /> | Potash | 1999002211 | `sharedproduct_potash_taludas` | `sharedproduction_potash_taludas`
 <img src="./Taludas_sharedproduct_saffron/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `Taludas_sharedproduct_saffron` | `Taludas_shared_importdock_saffron`
 <img src="./Taludas_sharedproduct_silkfabric/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `Taludas_sharedproduct_silkfabric` | `Taludas_shared_importdock_silk`<br/>(`New Horizons`, Asia)
-<img src="./sharedproduct_soda_taludas/data/modgraphics/ui/icon_soda_2.png" style="vertical-align: text-bottom;32px" width="64" />| Soda | 1999002300 | `sharedproduct_soda_taludas` | (`lion053_Enbesa_Spectacles_Production`, Enbesa)<br/>(`shared_soda_factory_kurila`, Old World)
-<img src="./sharedproduct_sweets_taludas/data/modgraphics/ui/icon_sweets.png" style="vertical-align: text-bottom;32px" width="64" />| Sweets | 1999005060 | `sharedproduct_sweets_taludas` |
-<img src="./sharedproduct_tortillas_taludas/data/modgraphics/ui/icon_tortillas.png" style="vertical-align: text-bottom;32px" width="64" /> | Tortillas | 1999002213 | `sharedproduct_tortillas_taludas` | `sharedproduction_tortillas_taludas`
-<img src="./sharedproduct_wine_taludas/data/modgraphics/ui/icon_wine.png" style="vertical-align: text-bottom;32px" width="64" />| Wine (renamed Champagne) | 120016 | `sharedproduct_wine_taludas` | vanilla
+<img src="./Taludas_sharedproduct_soda/data/modgraphics/ui/icon_soda_2.png" style="vertical-align: text-bottom;32px" width="64" />| Soda | 1999002300 | `sharedproduct_soda_taludas` | (`lion053_Enbesa_Spectacles_Production`, Enbesa)<br/>(`shared_soda_factory_kurila`, Old World)
+<img src="./Taludas_sharedproduct_sweets/data/modgraphics/ui/icon_sweets.png" style="vertical-align: text-bottom;32px" width="64" />| Sweets | 1999005060 | `sharedproduct_sweets_taludas` |
+<img src="./Taludas_sharedproduct_tortillas/data/modgraphics/ui/icon_tortillas.png" style="vertical-align: text-bottom;32px" width="64" /> | Tortillas | 1999002213 | `sharedproduct_tortillas_taludas` | `sharedproduction_tortillas_taludas`
+<img src="./Taludas_sharedproduct_wine/data/modgraphics/ui/icon_wine.png" style="vertical-align: text-bottom;32px" width="64" />| Wine (renamed Champagne) | 120016 | `sharedproduct_wine_taludas` | vanilla
 
 ## Foreign Trading Company
 
@@ -82,7 +82,7 @@ You will also need to put custom triggers for Unhide/Unlock and a custom build m
 <img src="./Taludas_sharedproduct_ebony/data/modgraphics/ui/icon_ebony.png" style="vertical-align: text-bottom;32px" width="64" /> | Ebony | 1999005093 | `Taludas_sharedproduct_ebony` | `Taludas_shared_importdock_ebony` | `import_storagelist_ebony_taludas`
 <img src="./Taludas_sharedproduct_saffron/data/modgraphics/ui/icon_saffron.png" style="vertical-align: text-bottom;32px" width="64" />| Saffron | 1999005090 | `Taludas_sharedproduct_saffron` | `Taludas_shared_importdock_saffron` | `import_storagelist_saffron_taludas`
 <img src="./Taludas_sharedproduct_silkfabric/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Silk Fabric | 1440209 | `Taludas_sharedproduct_silkfabric` | `Taludas_shared_importdock_silk`<br/>(`New Horizons`, Asia) | `import_storagelist_silk_taludas`
-<img src="./Taludas_sharedproduct_tea/data/modgraphics/ui/icon_silk.png" style="vertical-align: text-bottom;32px" width="64" />| Tea | 1500010847 | `tea-jakob` | `Taludas_shared_importdock_tea`<br/>(`ow-tea-jakob`) | `import_storagelist_silk_taludas`
+<img src="./doc/icons/icon_tea_import.png" style="vertical-align: text-bottom;32px" width="64" />| Tea | 1500010847 | `tea-jakob` | `Taludas_shared_importdock_tea`<br/>(`ow-tea-jakob`) | `import_storagelist_silk_taludas`
 |||||||
 <img src="./Taludas_shared_tradingcompany_packaging/data/ui/icon_import_dock_packaging.png" style="vertical-align: text-bottom;32px" width="32" /> | Handling Pier | 1999005388 | requires `ropes-jakob`,`ow-ropes-jakob`,`barrels_kurila`,`shared_cooperages_kurila` | `Taludas_shared_tradingcompany_packaging` |
 

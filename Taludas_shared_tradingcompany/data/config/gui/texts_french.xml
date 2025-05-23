@@ -76,5 +76,13 @@
       <GUID>1999005648</GUID>
       <Text>Société de commerce</Text>
     </Text>
+    <Text>
+      <GUID>1999010500</GUID>
+      <Text>Tous les quais d'exportation</Text>
+    </Text>
+    <Text>
+      <GUID>1999010501</GUID>
+      <Text>Tous les quais de la société de commerce extérieur</Text>
+    </Text>
   </ModOp>
 </ModOps>

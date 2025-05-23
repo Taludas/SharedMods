@@ -75,7 +75,6 @@
             <English>
               <Text>Extra Import Packaging Dock</Text>
               <Status>Exported</Status>
-              <ExportCount>2</ExportCount>
             </English>
           </LocaText>
         </Text>
@@ -156,6 +155,9 @@
         </Standard>
         <ItemEffect>
           <EffectTargets>
+            <Item>
+              <GUID>14443044</GUID>
+            </Item>
           </EffectTargets>
         </ItemEffect>
         <Text>

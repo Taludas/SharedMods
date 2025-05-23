@@ -2463,40 +2463,102 @@
 
     <!-- Buff Targets -->
     <ModOp Type="add" GUID="193897" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>1999005385</GUID>
-        </Item>
+      <Item>
+        <GUID>1999005385</GUID>
+      </Item>
     </ModOp>
     <ModOp Type="add" GUID="193897,193480" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>1999005385</GUID>
-        </Item>
+      <Item>
+        <GUID>1999005385</GUID>
+      </Item>
     </ModOp>
     <ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>1999005385</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005376</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005377</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005378</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005379</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005380</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005381</GUID>
-        </Item>
-        <Item>
-            <GUID>1999005382</GUID>
-        </Item>
+      <Item>
+        <GUID>1999005385</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005376</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005377</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005378</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005379</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005380</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005381</GUID>
+      </Item>
+      <Item>
+        <GUID>1999005382</GUID>
+      </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="24800">
+      <Asset>
+        <Template>ItemEffectTargetPool</Template>
+        <Values>
+          <Standard>
+            <GUID>1999010500</GUID>
+            <Name>All Export Piers</Name>
+            <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+          </Standard>
+          <Text />
+          <ItemEffectTargetPool>
+            <EffectTargetGUIDs>
+              <Item>
+                <GUID>1999005385</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005376</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005377</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005378</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005379</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005380</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005381</GUID>
+              </Item>
+              <Item>
+                <GUID>1999005382</GUID>
+              </Item>
+            </EffectTargetGUIDs>
+          </ItemEffectTargetPool>
+        </Values>
+      </Asset>
+      <Asset>
+        <Template>ItemEffectTargetPool</Template>
+        <Values>
+          <Standard>
+            <GUID>1999010501</GUID>
+            <Name>All Trading Company Piers</Name>
+            <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+          </Standard>
+          <Text />
+          <ItemEffectTargetPool>
+            <EffectTargetGUIDs>
+              <Item>
+                <GUID>14443044</GUID>
+              </Item>
+              <Item>
+                <GUID>1999010500</GUID>
+              </Item>
+            </EffectTargetGUIDs>
+          </ItemEffectTargetPool>
+        </Values>
+      </Asset>
     </ModOp>
 
     <!-- Building Category for individual Build Menu integration -->

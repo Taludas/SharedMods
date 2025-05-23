@@ -76,5 +76,13 @@
       <GUID>1999005648</GUID>
       <Text>外資系商社</Text>
     </Text>
+    <Text>
+      <GUID>1999010500</GUID>
+      <Text>すべての輸出桟橋</Text>
+    </Text>
+    <Text>
+      <GUID>1999010501</GUID>
+      <Text>すべての外国貿易会社桟橋</Text>
+    </Text>
   </ModOp>
 </ModOps>

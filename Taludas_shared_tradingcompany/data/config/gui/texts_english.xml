@@ -77,6 +77,14 @@
       <GUID>1999005648</GUID>
       <Text>Foreign Trading Company</Text>
     </Text>
+    <Text>
+      <GUID>1999010500</GUID>
+      <Text>All Export Piers</Text>
+    </Text>
+    <Text>
+      <GUID>1999010501</GUID>
+      <Text>All Foreign Trading Company Piers</Text>
+    </Text>
   </ModOp>
 
 </ModOps>

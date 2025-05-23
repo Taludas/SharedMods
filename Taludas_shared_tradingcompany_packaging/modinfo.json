@@ -1,5 +1,5 @@
 {
-  "Version": "1.0",
+  "Version": "1.1",
   "ModID": "Taludas_shared_tradingcompany_packaging",
   "DeprecateIds": [],
   "ModDependencies": [
@@ -10,7 +10,8 @@
     "ow-tools-jakob"
   ],
   "LoadAfterIds": [
-    "Taludas_shared_tradingcompany"
+    "Taludas_shared_tradingcompany",
+    "Taludas_shared_tradingcompany_allimportpiers"
   ],
   "IncompatibleIds": null,
   "Category": {

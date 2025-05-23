@@ -76,5 +76,13 @@
       <GUID>1999005648</GUID>
       <Text>Fernhandelscompagnie</Text>
     </Text>
+    <Text>
+      <GUID>1999010500</GUID>
+      <Text>Alle Exportdocks</Text>
+    </Text>
+    <Text>
+      <GUID>1999010501</GUID>
+      <Text>Alle Fernhandelscompagnie-Docks</Text>
+    </Text>
   </ModOp>
 </ModOps>

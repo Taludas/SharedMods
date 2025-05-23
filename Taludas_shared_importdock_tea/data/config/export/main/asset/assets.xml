@@ -214,8 +214,8 @@
     </Asset>
   </ModOp>
 
-  <!-- add import dock to packaging module buff -->
-  <ModOp Type="add" GUID="1999005646" Path="/Values/ItemEffect/EffectTargets" Condition="#Taludas_shared_tradingcompany_packaging">
+  <!-- add import dock to All Import Pier TargetPool -->
+  <ModOp Type="add" GUID="14443044" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
     <Item>
       <GUID>1999005409</GUID>
     </Item>

@@ -76,5 +76,13 @@
       <GUID>1999005648</GUID>
       <Text>外贸公司</Text>
     </Text>
+    <Text>
+      <GUID>1999010500</GUID>
+      <Text>所有出口码头</Text>
+    </Text>
+    <Text>
+      <GUID>1999010501</GUID>
+      <Text>全外贸公司码头</Text>
+    </Text>
   </ModOp>
 </ModOps>
